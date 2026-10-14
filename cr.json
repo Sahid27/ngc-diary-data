@@ -1,54 +1,27 @@
-[
-  {
-    "id": "NGC_CR_001",
-    "college": "Noakhali Government College",
-    "department": "Physics",
-    "category": "Science",
-    "class": "Honours 3rd Year",
-    "session": "2023-2024",
-    "name": "Sample CR One",
-    "designation": "Class Representative",
-    "mobile": "01700000001",
-    "email": "cr1@example.com",
-    "photo": ""
-  },
-  {
-    "id": "NGC_CR_002",
-    "college": "Noakhali Government College",
-    "department": "Chemistry",
-    "category": "Science",
-    "class": "Honours 2nd Year",
-    "session": "2024-2025",
-    "name": "Sample CR Two",
-    "designation": "Class Representative",
-    "mobile": "01700000002",
-    "email": "cr2@example.com",
-    "photo": ""
-  },
-  {
-    "id": "NGC_CR_003",
-    "college": "Noakhali Government College",
-    "department": "Bangla",
-    "category": "Humanities",
-    "class": "Honours 3rd Year",
-    "session": "2023-2024",
-    "name": "Sample CR Three",
-    "designation": "Class Representative",
-    "mobile": "01700000003",
-    "email": "cr3@example.com",
-    "photo": ""
-  },
-  {
-    "id": "NGC_CR_004",
-    "college": "Noakhali Government College",
-    "department": "Accounting",
-    "category": "Business Studies",
-    "class": "Honours 2nd Year",
-    "session": "2024-2025",
-    "name": "Sample CR Four",
-    "designation": "Class Representative",
-    "mobile": "01700000004",
-    "email": "cr4@example.com",
-    "photo": ""
+{
+  "departments": {
+    "Physics": [
+      {
+        "session": "2023-24",
+        "crs": [
+          { "name": "Sample CR One", "roll": "2301", "section": "A" },
+          { "name": "Sample CR Two", "roll": "2315", "section": "B" }
+        ]
+      },
+      {
+        "session": "2022-23",
+        "crs": [
+          { "name": "Sample CR Three", "roll": "2201" }
+        ]
+      }
+    ],
+    "Bangla": [
+      {
+        "session": "2023-24",
+        "crs": [
+          { "name": "Sample CR Four", "roll": "2401", "section": "A" }
+        ]
+      }
+    ]
   }
-]
+}
