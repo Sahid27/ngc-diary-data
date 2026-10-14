@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "updated": "13 Oct 2026",
-  "message": "",
+  "version": 2,
+  "updated": "14 Oct 2026",
+  "message": "Test update: sample CR lists added.",
   "urgent": false,
-  "changed": [],
+  "changed": ["cr"],
   "files": ["cr.json"]
 }
