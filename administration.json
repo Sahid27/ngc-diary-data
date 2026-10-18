@@ -1,0 +1,34 @@
+{
+  "principal": {
+    "name": "Md. Monirul Islam",
+    "title": "Professor",
+    "joined": "27 April 1994"
+  },
+  "staff": [
+    {
+      "name": "Mohammed Abul Kalam",
+      "designation": "Head Assistant",
+      "mobile": "01710088912"
+    },
+    {
+      "name": "Md. Anowar Hossen",
+      "designation": "Accountant",
+      "mobile": "01712123615"
+    },
+    {
+      "name": "Md. Kamal Uddin",
+      "designation": "Accounts Assistant",
+      "mobile": "01819665014"
+    },
+    {
+      "name": "Md. Belal",
+      "designation": "Store Keeper",
+      "mobile": "01814200197"
+    },
+    {
+      "name": "Abul Kalam Azad",
+      "designation": "Office Assistant",
+      "mobile": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "news": [
+    {
+      "id": "news:1",
+      "title": "Routine for First In-Course Exam (2024-25) Degree Pass 1st Year",
+      "date": "20 May 2026",
+      "body": "The routine for the First In-Course Examination (2024-25) of Degree Pass 1st Year has been published by the college."
+    },
+    {
+      "id": "news:2",
+      "title": "College Cultural Program Held Successfully",
+      "date": "15 May 2026",
+      "body": "The annual cultural program of the college was held successfully with enthusiastic participation of students and teachers."
+    },
+    {
+      "id": "news:3",
+      "title": "Science Fair and Exhibition 2026",
+      "date": "10 May 2026",
+      "body": "Science Fair and Exhibition 2026 was organised by the science departments, showcasing projects made by students."
+    }
+  ],
+  "notices": [
+    {
+      "id": "notice:1",
+      "title": "Class 11 (Science) Section Class Routine",
+      "date": "28 Sep 2026",
+      "body": "The section-wise class routine for Class 11 (Science) has been published. Students are requested to collect the routine from the department and follow it strictly.",
+      "isNew": true
+    },
+    {
+      "id": "notice:2",
+      "title": "Admission Circular for Class 11 (2026-27)",
+      "date": "25 Sep 2026",
+      "body": "Admission circular for Class 11 (2026-27 session). Please visit the official admission portal and the college office for the schedule and required documents."
+    },
+    {
+      "id": "notice:3",
+      "title": "Urgent Notice for 2025-2026 Session",
+      "date": "20 Sep 2026",
+      "body": "All students of the 2025-2026 session are requested to contact the college office urgently. Details are available on the notice board."
+    }
+  ]
+}

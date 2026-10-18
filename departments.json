@@ -1,0 +1,100 @@
+{
+  "faculties": [
+    "Humanities",
+    "Business Studies",
+    "Science",
+    "Other"
+  ],
+  "departments": [
+    {
+      "name": "Bangla",
+      "faculty": "Humanities",
+      "head": ""
+    },
+    {
+      "name": "English",
+      "faculty": "Humanities",
+      "head": ""
+    },
+    {
+      "name": "Islamic History & Culture",
+      "faculty": "Humanities",
+      "head": ""
+    },
+    {
+      "name": "Philosophy",
+      "faculty": "Humanities",
+      "head": ""
+    },
+    {
+      "name": "Islamic Studies",
+      "faculty": "Humanities",
+      "head": ""
+    },
+    {
+      "name": "Political Science",
+      "faculty": "Humanities",
+      "head": ""
+    },
+    {
+      "name": "Sociology",
+      "faculty": "Humanities",
+      "head": ""
+    },
+    {
+      "name": "Economics",
+      "faculty": "Humanities",
+      "head": ""
+    },
+    {
+      "name": "Marketing",
+      "faculty": "Business Studies",
+      "head": ""
+    },
+    {
+      "name": "Finance & Banking",
+      "faculty": "Business Studies",
+      "head": ""
+    },
+    {
+      "name": "Accounting",
+      "faculty": "Business Studies",
+      "head": ""
+    },
+    {
+      "name": "Management",
+      "faculty": "Business Studies",
+      "head": ""
+    },
+    {
+      "name": "Physics",
+      "faculty": "Science",
+      "head": ""
+    },
+    {
+      "name": "Chemistry",
+      "faculty": "Science",
+      "head": ""
+    },
+    {
+      "name": "Botany",
+      "faculty": "Science",
+      "head": ""
+    },
+    {
+      "name": "Zoology",
+      "faculty": "Science",
+      "head": ""
+    },
+    {
+      "name": "Mathematics",
+      "faculty": "Science",
+      "head": ""
+    },
+    {
+      "name": "Physical Education",
+      "faculty": "Other",
+      "head": ""
+    }
+  ]
+}

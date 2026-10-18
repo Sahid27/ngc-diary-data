@@ -1,0 +1,734 @@
+{
+  "teachers": [
+    {
+      "name": "Md. Monirul Islam",
+      "designation": "Principal",
+      "department": "Accounting",
+      "qualification": "Masters",
+      "joined": "27.04.1994",
+      "profileId": "163",
+      "phone": "",
+      "email": "ngc_principal@yahoo.com"
+    },
+    {
+      "name": "A.B.M. Sana Ullah",
+      "designation": "Principal (In charge)",
+      "department": "",
+      "qualification": "Masters",
+      "joined": "22.02.1998",
+      "profileId": "125",
+      "phone": "01712640298",
+      "email": "ngc_principal@yahoo.com"
+    },
+    {
+      "name": "Kazi Mohammad Shahidur Rahman",
+      "designation": "Associate Professor",
+      "department": "Bangla",
+      "qualification": "Master of Arts (M.A)",
+      "joined": "02 November 2016",
+      "profileId": "4",
+      "phone": "01558003933",
+      "email": "jontormontorghor@gmail.com"
+    },
+    {
+      "name": "Julfiker Haider",
+      "designation": "Associate Professor",
+      "department": "Sociology",
+      "qualification": "Masters",
+      "joined": "01.12.2010",
+      "profileId": "57",
+      "phone": "01733631969",
+      "email": "julfikerhaider190082@gmail.com"
+    },
+    {
+      "name": "Mohammad Kamruzzaman",
+      "designation": "Professor",
+      "department": "Bangla",
+      "qualification": "Masters",
+      "joined": "02.12.2024",
+      "profileId": "128",
+      "phone": "01712002043",
+      "email": ""
+    },
+    {
+      "name": "Mohammad Abu Baten",
+      "designation": "Professor",
+      "department": "Accounting",
+      "qualification": "MBS (Accounting)",
+      "joined": "24.09.2024",
+      "profileId": "10",
+      "phone": "01711208607",
+      "email": ""
+    },
+    {
+      "name": "Muhammad Rakibul Ahsan Kabir",
+      "designation": "Associate Professor",
+      "department": "Bangla",
+      "qualification": "M.A. (Bangla)",
+      "joined": "10.04.2018",
+      "profileId": "15",
+      "phone": "01558514351",
+      "email": "rakibulahasan@gmail.com"
+    },
+    {
+      "name": "Monir Uddin",
+      "designation": "Assistant Professor",
+      "department": "Sociology",
+      "qualification": "Masters",
+      "joined": "02.05.2017",
+      "profileId": "59",
+      "phone": "01724898939",
+      "email": "munir88.bd@gmail.com"
+    },
+    {
+      "name": "Kaiser Ahmad",
+      "designation": "Professor",
+      "department": "English",
+      "qualification": "M.A. (English)",
+      "joined": "24.09.2024",
+      "profileId": "22",
+      "phone": "01716903954",
+      "email": "kaiser_ahmad@hotmail.com"
+    },
+    {
+      "name": "Md. Abdul Malek",
+      "designation": "Lecturer",
+      "department": "Islamic Studies",
+      "qualification": "M.A.",
+      "joined": "14.02.2021",
+      "profileId": "84",
+      "phone": "01521260609",
+      "email": ""
+    },
+    {
+      "name": "Md. Riaz Uddin",
+      "designation": "Assistant Professor",
+      "department": "Islamic Studies",
+      "qualification": "M.A.",
+      "joined": "07.08.2014",
+      "profileId": "86",
+      "phone": "01795295532",
+      "email": ""
+    },
+    {
+      "name": "Md. Kamrul Hasan",
+      "designation": "Assistant Professor",
+      "department": "English",
+      "qualification": "M.A. (English)",
+      "joined": "",
+      "profileId": "23",
+      "phone": "01717521286",
+      "email": "kamrul29ngc@gmail.com"
+    },
+    {
+      "name": "Dilruba Fatima Bristy",
+      "designation": "Lecturer",
+      "department": "English",
+      "qualification": "M.A. (English)",
+      "joined": "14.02.2021",
+      "profileId": "26",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "name": "Dr. A.G. Al Morshed",
+      "designation": "Associate Professor",
+      "department": "Economics",
+      "qualification": "PhD",
+      "joined": "04.11.2021",
+      "profileId": "88",
+      "phone": "01736641988",
+      "email": ""
+    },
+    {
+      "name": "Nipen Chandra Das",
+      "designation": "Lecturer",
+      "department": "Zoology",
+      "qualification": "M.Sc.",
+      "joined": "03.03.2018",
+      "profileId": "29",
+      "phone": "01721457715",
+      "email": ""
+    },
+    {
+      "name": "M.M. Shayefullah",
+      "designation": "Professor",
+      "department": "Mathematics",
+      "qualification": "M.Sc.",
+      "joined": "10.12.2003",
+      "profileId": "32",
+      "phone": "01711947186",
+      "email": "mmsaif@gmail.com"
+    },
+    {
+      "name": "Abdul Matin",
+      "designation": "Assistant Professor",
+      "department": "Mathematics",
+      "qualification": "M.Sc.",
+      "joined": "30.12.2022",
+      "profileId": "33",
+      "phone": "",
+      "email": "amatin_29@yahoo.com"
+    },
+    {
+      "name": "Md. Naimur Rahman Maruff",
+      "designation": "Assistant Professor",
+      "department": "Mathematics",
+      "qualification": "M.Sc.",
+      "joined": "19.10.2022",
+      "profileId": "34",
+      "phone": "01718500700",
+      "email": "naimmaruf86@gmail.com"
+    },
+    {
+      "name": "Md. Asadal Hoque",
+      "designation": "Assistant Professor",
+      "department": "Accounting",
+      "qualification": "M.Com",
+      "joined": "19.10.2022",
+      "profileId": "90",
+      "phone": "01812354990",
+      "email": ""
+    },
+    {
+      "name": "Mohammad Abdul Jalil",
+      "designation": "Associate Professor",
+      "department": "Chemistry",
+      "qualification": "M.Sc.",
+      "joined": "31.08.2015",
+      "profileId": "37",
+      "phone": "01818187060",
+      "email": "majalilchem76@gmail.com"
+    },
+    {
+      "name": "Md. Kamal Uddin",
+      "designation": "Assistant Professor",
+      "department": "Botany",
+      "qualification": "M.Sc.",
+      "joined": "19.09.2015",
+      "profileId": "41",
+      "phone": "01718762460",
+      "email": "Uddin.kamal11@yahoo.com"
+    },
+    {
+      "name": "Md. Shorab Hossain",
+      "designation": "Assistant Professor",
+      "department": "Management",
+      "qualification": "MBS",
+      "joined": "13.11.2019",
+      "profileId": "93",
+      "phone": "01670716504",
+      "email": ""
+    },
+    {
+      "name": "Molla Mohammed Masud",
+      "designation": "Associate Professor",
+      "department": "Philosophy",
+      "qualification": "M.A.",
+      "joined": "02.07.2005",
+      "profileId": "43",
+      "phone": "01711107051",
+      "email": "masudnoyonbd@yahoo.com"
+    },
+    {
+      "name": "Noyan Chandra",
+      "designation": "Assistant Professor",
+      "department": "Management",
+      "qualification": "MBS",
+      "joined": "06.07.2017",
+      "profileId": "94",
+      "phone": "01915537884",
+      "email": ""
+    },
+    {
+      "name": "Md. Arif Uddin",
+      "designation": "Lecturer",
+      "department": "Philosophy",
+      "qualification": "M.A.",
+      "joined": "03.09.2018",
+      "profileId": "45",
+      "phone": "01817751553",
+      "email": ""
+    },
+    {
+      "name": "Md. Mozzammelul Haque",
+      "designation": "Professor",
+      "department": "Islamic Studies",
+      "qualification": "M.A.",
+      "joined": "20.11.1993",
+      "profileId": "46",
+      "phone": "01713370938",
+      "email": "mozzammelofficial@gmail.com"
+    },
+    {
+      "name": "Md. Anowar Hossain Bhoyan",
+      "designation": "Associate Professor",
+      "department": "Islamic Studies",
+      "qualification": "M.A.",
+      "joined": "12.08.2012",
+      "profileId": "47",
+      "phone": "01788308142",
+      "email": ""
+    },
+    {
+      "name": "Omar Maruf",
+      "designation": "Assistant Professor",
+      "department": "Management",
+      "qualification": "Masters",
+      "joined": "10.04.2025",
+      "profileId": "143",
+      "phone": "01612839198",
+      "email": "omarmaruf4@gmail.com"
+    },
+    {
+      "name": "Md. Sharif Hossain",
+      "designation": "Professor",
+      "department": "Economics",
+      "qualification": "M.Sc.",
+      "joined": "24.09.2024",
+      "profileId": "50",
+      "phone": "01712555344",
+      "email": "Sharifhossain10572@gmail.com"
+    },
+    {
+      "name": "Md. Bahar Uddin",
+      "designation": "Associate Professor",
+      "department": "Economics",
+      "qualification": "M.S.S.",
+      "joined": "02.07.2005",
+      "profileId": "51",
+      "phone": "",
+      "email": "bahar24esn@gmail.com"
+    },
+    {
+      "name": "Mohammad Baisul Hoque",
+      "designation": "Assistant Professor",
+      "department": "Economics",
+      "qualification": "M.S.S.",
+      "joined": "03.06.2012",
+      "profileId": "52",
+      "phone": "01818351653",
+      "email": "baisuju@gmail.com"
+    },
+    {
+      "name": "Gazi Mahbube Sobhani",
+      "designation": "Assistant Professor",
+      "department": "Economics",
+      "qualification": "M.S.S. (Economics)",
+      "joined": "07.08.2014",
+      "profileId": "53",
+      "phone": "01712363849",
+      "email": "ms.gazieco@gmail.com"
+    },
+    {
+      "name": "Shukanta Chandre Deb Nath",
+      "designation": "Assistant Professor",
+      "department": "Economics",
+      "qualification": "M.S.S. (Economics)",
+      "joined": "07.08.2014",
+      "profileId": "54",
+      "phone": "01717379000",
+      "email": "shukantadebnath1988@gmail.com"
+    },
+    {
+      "name": "Mohammad Khorshed Alam",
+      "designation": "Associate Professor",
+      "department": "Physics",
+      "qualification": "M.Sc.",
+      "joined": "17.07.2013",
+      "profileId": "98",
+      "phone": "01717380514",
+      "email": ""
+    },
+    {
+      "name": "Asma Akhter",
+      "designation": "Assistant Professor",
+      "department": "Physics",
+      "qualification": "M.Sc.",
+      "joined": "01.06.2016",
+      "profileId": "100",
+      "phone": "01820134596",
+      "email": ""
+    },
+    {
+      "name": "Nur Mohammed",
+      "designation": "Assistant Professor",
+      "department": "Chemistry",
+      "qualification": "M.Sc.",
+      "joined": "20.08.2018",
+      "profileId": "102",
+      "phone": "01716955225",
+      "email": ""
+    },
+    {
+      "name": "Bidhan Kumar Muhury",
+      "designation": "Assistant Professor",
+      "department": "Chemistry",
+      "qualification": "M.Sc.",
+      "joined": "22.06.2022",
+      "profileId": "103",
+      "phone": "01815332995",
+      "email": ""
+    },
+    {
+      "name": "Md. Abul Hossain",
+      "designation": "Lecturer",
+      "department": "Political Science",
+      "qualification": "Masters",
+      "joined": "22.07.2025",
+      "profileId": "161",
+      "phone": "01863853092",
+      "email": "mdabulhossain.innoxious@gmail.com"
+    },
+    {
+      "name": "Mohammed Asraful Islam Rubel",
+      "designation": "Associate Professor",
+      "department": "Chemistry",
+      "qualification": "M.Sc.",
+      "joined": "06.04.2022",
+      "profileId": "104",
+      "phone": "01823961333",
+      "email": ""
+    },
+    {
+      "name": "Shirin Zahan",
+      "designation": "Assistant Professor",
+      "department": "Botany",
+      "qualification": "M.Sc.",
+      "joined": "30.10.2013",
+      "profileId": "106",
+      "phone": "01717075318",
+      "email": ""
+    },
+    {
+      "name": "Sarmin Sultana",
+      "designation": "Assistant Professor",
+      "department": "Management",
+      "qualification": "MBA",
+      "joined": "30.10.2013",
+      "profileId": "97",
+      "phone": "01716264697",
+      "email": ""
+    },
+    {
+      "name": "Mohammad Mainul Islam",
+      "designation": "Professor",
+      "department": "Political Science",
+      "qualification": "M.S.S.",
+      "joined": "10.12.2003",
+      "profileId": "109",
+      "phone": "01924804870",
+      "email": ""
+    },
+    {
+      "name": "Shamima Nasren",
+      "designation": "Associate Professor",
+      "department": "Political Science",
+      "qualification": "M.S.S.",
+      "joined": "07.09.2015",
+      "profileId": "111",
+      "phone": "01718152278",
+      "email": ""
+    },
+    {
+      "name": "Umme Hane Subarna",
+      "designation": "Associate Professor",
+      "department": "Political Science",
+      "qualification": "M.S.S.",
+      "joined": "10.11.2014",
+      "profileId": "112",
+      "phone": "01712962646",
+      "email": ""
+    },
+    {
+      "name": "Md. Gias Uddin",
+      "designation": "Assistant Professor",
+      "department": "Political Science",
+      "qualification": "M.S.S.",
+      "joined": "22.06.2022",
+      "profileId": "113",
+      "phone": "01720394971",
+      "email": ""
+    },
+    {
+      "name": "Jannatul Ferthous",
+      "designation": "Assistant Professor",
+      "department": "Political Science",
+      "qualification": "M.S.S.",
+      "joined": "07.08.2014",
+      "profileId": "114",
+      "phone": "01846216032",
+      "email": ""
+    },
+    {
+      "name": "Md. Abdul Hai",
+      "designation": "Lecturer",
+      "department": "Political Science",
+      "qualification": "M.S.S.",
+      "joined": "22.06.2022",
+      "profileId": "115",
+      "phone": "01911655249",
+      "email": ""
+    },
+    {
+      "name": "Sadia Afrin",
+      "designation": "Lecturer",
+      "department": "Political Science",
+      "qualification": "M.S.S.",
+      "joined": "14.02.2021",
+      "profileId": "116",
+      "phone": "01757948842",
+      "email": ""
+    },
+    {
+      "name": "Mohammad Shah Alam",
+      "designation": "Associate Professor",
+      "department": "Zoology",
+      "qualification": "M.Sc.",
+      "joined": "15.03.2023",
+      "profileId": "121",
+      "phone": "01762067935",
+      "email": ""
+    },
+    {
+      "name": "Srikanta Saha",
+      "designation": "Assistant Professor",
+      "department": "Zoology",
+      "qualification": "M.Sc.",
+      "joined": "15.12.2021",
+      "profileId": "119",
+      "phone": "01710068342",
+      "email": ""
+    },
+    {
+      "name": "Md. Solaiman",
+      "designation": "Assistant Professor",
+      "department": "Mathematics",
+      "qualification": "M.Sc.",
+      "joined": "01.12.2022",
+      "profileId": "122",
+      "phone": "01842814142",
+      "email": ""
+    },
+    {
+      "name": "Sabbir Ahammad Majumder",
+      "designation": "Lecturer",
+      "department": "Accounting",
+      "qualification": "MBA",
+      "joined": "14.02.2021",
+      "profileId": "123",
+      "phone": "01687902617",
+      "email": "sabbirahammad41@gmail.com"
+    },
+    {
+      "name": "Mohammad Yunuser Rahman",
+      "designation": "Associate Professor",
+      "department": "Bangla",
+      "qualification": "Masters",
+      "joined": "05.07.2015",
+      "profileId": "130",
+      "phone": "01828403039",
+      "email": "yunus130@gmail.com"
+    },
+    {
+      "name": "Munshadur Rahman",
+      "designation": "Assistant Professor",
+      "department": "Bangla",
+      "qualification": "Masters",
+      "joined": "27.10.2024",
+      "profileId": "131",
+      "phone": "01620401274",
+      "email": "mun.du39@gmail.com"
+    },
+    {
+      "name": "Md. Shafiqul Alam",
+      "designation": "Assistant Professor",
+      "department": "Bangla",
+      "qualification": "Masters",
+      "joined": "27.09.2022",
+      "profileId": "132",
+      "phone": "01818566998",
+      "email": "sumanmon884@gmail.com"
+    },
+    {
+      "name": "Md. Houmayoon Kabir",
+      "designation": "Associate Professor",
+      "department": "English",
+      "qualification": "Masters",
+      "joined": "15.11.2023",
+      "profileId": "133",
+      "phone": "01718005947",
+      "email": "houmayoonkabir1975@gmail.com"
+    },
+    {
+      "name": "Md. Hatem Ali",
+      "designation": "Lecturer",
+      "department": "English",
+      "qualification": "Masters",
+      "joined": "07.04.2019",
+      "profileId": "134",
+      "phone": "01553752289",
+      "email": "hatemcu@gmail.com"
+    },
+    {
+      "name": "Mohammad Jahidul Islam",
+      "designation": "Lecturer",
+      "department": "Islamic History & Culture",
+      "qualification": "Masters",
+      "joined": "23.10.2024",
+      "profileId": "136",
+      "phone": "01515263122",
+      "email": "Jahid124.98@gmail.com"
+    },
+    {
+      "name": "Ajgor Hossain",
+      "designation": "Lecturer",
+      "department": "Islamic History & Culture",
+      "qualification": "Masters",
+      "joined": "27.03.2024",
+      "profileId": "137",
+      "phone": "01815682171",
+      "email": "rubelchy.cu92@gmail.com"
+    },
+    {
+      "name": "Mohammad Sana Ullah",
+      "designation": "Professor",
+      "department": "Political Science",
+      "qualification": "Masters",
+      "joined": "02.12.2024",
+      "profileId": "138",
+      "phone": "01711315268",
+      "email": "sanaullah70.com@gmail.com"
+    },
+    {
+      "name": "Dr. Mohammed Alauddin Al Agad",
+      "designation": "Professor",
+      "department": "Sociology",
+      "qualification": "PhD",
+      "joined": "17.12.2017",
+      "profileId": "139",
+      "phone": "01924399029",
+      "email": "azadsocio@yahoo.com"
+    },
+    {
+      "name": "Md. Royel Hossain",
+      "designation": "Lecturer",
+      "department": "Sociology",
+      "qualification": "Masters",
+      "joined": "28.04.2024",
+      "profileId": "141",
+      "phone": "01518306261",
+      "email": "socro.du@gmail.com"
+    },
+    {
+      "name": "Mohammad Mahfuz Ahammad",
+      "designation": "Assistant Professor",
+      "department": "Philosophy",
+      "qualification": "Masters",
+      "joined": "10.07.2023",
+      "profileId": "142",
+      "phone": "01674086706",
+      "email": "mahfuzahammad5@gmail.com"
+    },
+    {
+      "name": "A.K.M. Shahab Uddin",
+      "designation": "Associate Professor",
+      "department": "Accounting",
+      "qualification": "Masters",
+      "joined": "23.04.2025",
+      "profileId": "145",
+      "phone": "01818421514",
+      "email": "shahabuddin13603@gmail.com"
+    },
+    {
+      "name": "Mohammed Manjil Khan Chowdhury",
+      "designation": "Associate Professor",
+      "department": "Accounting",
+      "qualification": "Masters",
+      "joined": "28.10.2024",
+      "profileId": "146",
+      "phone": "01620402387",
+      "email": "mkc3500@gmail.com"
+    },
+    {
+      "name": "Trisha Rani Kuri",
+      "designation": "Lecturer",
+      "department": "Accounting",
+      "qualification": "Masters",
+      "joined": "28.04.2024",
+      "profileId": "147",
+      "phone": "01896429288",
+      "email": "trishakuri1994@gmail.com"
+    },
+    {
+      "name": "Debashis Das",
+      "designation": "Assistant Professor",
+      "department": "Physics",
+      "qualification": "Masters",
+      "joined": "27.10.2024",
+      "profileId": "149",
+      "phone": "01724421309",
+      "email": "dasdebashis17135@gmail.com"
+    },
+    {
+      "name": "Mohammed Abdur Rahim",
+      "designation": "Associate Professor",
+      "department": "Chemistry",
+      "qualification": "Masters",
+      "joined": "26.11.2024",
+      "profileId": "150",
+      "phone": "01712267896",
+      "email": "arahim742496@gmail.com"
+    },
+    {
+      "name": "Ramjan Ali",
+      "designation": "Lecturer",
+      "department": "Accounting",
+      "qualification": "Masters",
+      "joined": "12.08.2026",
+      "profileId": "164",
+      "phone": "01816777508",
+      "email": ""
+    },
+    {
+      "name": "Dr. Bakul Bhattacharjee",
+      "designation": "Associate Professor",
+      "department": "Botany",
+      "qualification": "PhD",
+      "joined": "07.01.2025",
+      "profileId": "151",
+      "phone": "01711709390",
+      "email": "bakul1975_ru@yahoo.com"
+    },
+    {
+      "name": "Shahadath Hossain",
+      "designation": "Lecturer",
+      "department": "English",
+      "qualification": "Masters",
+      "joined": "30.07.2026",
+      "profileId": "165",
+      "phone": "01766272982",
+      "email": ""
+    },
+    {
+      "name": "Md. Nazrul Islam",
+      "designation": "Physical Education",
+      "department": "Physical Education",
+      "qualification": "Masters",
+      "joined": "03.02.2005",
+      "profileId": "160",
+      "phone": "01714655344",
+      "email": "mdnazrulislamncg1975@gmail.com"
+    },
+    {
+      "name": "Mohammad Saifuddin",
+      "designation": "Lecturer",
+      "department": "Management",
+      "qualification": "Masters",
+      "joined": "27.10.2024",
+      "profileId": "144",
+      "phone": "01688376257",
+      "email": "sujan15du@gmail.com"
+    }
+  ]
+}

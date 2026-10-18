@@ -1,0 +1,29 @@
+{
+  "calendar": "The academic calendar for the current session will be added here. Watch the notices for exam and event dates.",
+  "holidays": [
+    {
+      "name": "Shaheed Day and International Mother Language Day",
+      "date": "21 February"
+    },
+    {
+      "name": "Independence Day",
+      "date": "26 March"
+    },
+    {
+      "name": "Pohela Boishakh",
+      "date": "14 April"
+    },
+    {
+      "name": "May Day",
+      "date": "1 May"
+    },
+    {
+      "name": "Victory Day",
+      "date": "16 December"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "25 December"
+    }
+  ]
+}

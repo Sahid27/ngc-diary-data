@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "name": "Science",
+      "color": "00897B",
+      "icon": "science"
+    },
+    {
+      "name": "Business Studies",
+      "color": "F57C00",
+      "icon": "bar_chart"
+    },
+    {
+      "name": "Humanities",
+      "color": "8E24AA",
+      "icon": "menu_book"
+    }
+  ],
+  "links": [
+    {
+      "label": "Education Board results",
+      "icon": "school",
+      "color": "1565C0",
+      "url": "http://www.educationboardresults.gov.bd"
+    },
+    {
+      "label": "National University results",
+      "icon": "account_balance",
+      "color": "3949AB",
+      "url": "https://www.nu.ac.bd"
+    },
+    {
+      "label": "Class 11 admission portal",
+      "icon": "meeting_room",
+      "color": "4CAF50",
+      "url": "https://xiclassadmission.gov.bd"
+    },
+    {
+      "label": "Official student list (college website)",
+      "icon": "public",
+      "color": "26A6C4",
+      "url": "https://www.noakhalicoll.gov.bd/students_list.php"
+    }
+  ]
+}

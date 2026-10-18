@@ -1,0 +1,114 @@
+{
+  "stats": {
+    "students": "19,432",
+    "teachers": "86",
+    "departments": "18",
+    "established": "1963"
+  },
+  "address": "Maijdeecourt, Sadar, Noakhali",
+  "facts": [
+    {
+      "label": "Established",
+      "value": "1 March 1963",
+      "icon": "event"
+    },
+    {
+      "label": "Nationalised",
+      "value": "1968",
+      "icon": "flag"
+    },
+    {
+      "label": "Campus area",
+      "value": "About 20.5 acres",
+      "icon": "landscape"
+    },
+    {
+      "label": "Students",
+      "value": "@students",
+      "icon": "groups"
+    },
+    {
+      "label": "Teachers",
+      "value": "@teachers",
+      "icon": "person"
+    },
+    {
+      "label": "Departments",
+      "value": "@departments",
+      "icon": "account_balance"
+    },
+    {
+      "label": "Campuses",
+      "value": "Two: old campus (HSC) and new campus (Honours, Masters, Degree Pass)",
+      "icon": "apartment",
+      "full": true
+    },
+    {
+      "label": "Affiliation",
+      "value": "National University and Board of Intermediate and Secondary Education, Cumilla",
+      "icon": "verified",
+      "full": true
+    },
+    {
+      "label": "Location",
+      "value": "Maijdeecourt, Sadar, Noakhali",
+      "icon": "location_on",
+      "full": true
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1 Mar 1963",
+      "text": "Noakhali Government College founded. The land was donated by Chintaharan Chatterjee. First principal: A.K. Mohammad Ullah."
+    },
+    {
+      "year": "1 Jul 1963",
+      "text": "Higher Secondary Certificate (HSC) classes begin."
+    },
+    {
+      "year": "1965",
+      "text": "Degree (Pass) course begins."
+    },
+    {
+      "year": "1968",
+      "text": "The college is nationalised."
+    },
+    {
+      "year": "1991",
+      "text": "Honours level begins under National University."
+    },
+    {
+      "year": "1995",
+      "text": "Masters (final) begins."
+    }
+  ],
+  "programmes": [
+    {
+      "title": "HSC",
+      "sub": "Higher Secondary (Class 11-12)",
+      "icon": "menu_book"
+    },
+    {
+      "title": "Degree (Pass)",
+      "sub": "3-year pass course",
+      "icon": "school"
+    },
+    {
+      "title": "Honours",
+      "sub": "Under National University",
+      "icon": "workspace_premium"
+    },
+    {
+      "title": "Masters",
+      "sub": "Final year courses",
+      "icon": "military_tech"
+    }
+  ],
+  "pending": [
+    "Mission & Vision",
+    "Principal's Message",
+    "Infrastructure & Facilities",
+    "Achievements",
+    "Rules & Regulations"
+  ]
+}

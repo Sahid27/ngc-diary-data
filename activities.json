@@ -1,0 +1,126 @@
+{
+  "groups": [
+    "Clubs & Scouts",
+    "Sports & Culture",
+    "Learning",
+    "Publications",
+    "Others"
+  ],
+  "categories": [
+    {
+      "id": "scouts",
+      "title": "Scouts",
+      "group": "Clubs & Scouts",
+      "description": "Scout activities and events of the college.",
+      "icon": "explore",
+      "color": "2E9E4F",
+      "officialUrl": "https://www.noakhalicoll.gov.bd/misc.php?linkto=Scouts",
+      "newsKeywords": [
+        "scout"
+      ]
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "group": "Sports & Culture",
+      "description": "Sports competitions and playground activities.",
+      "icon": "sports_soccer",
+      "color": "F58A0B",
+      "officialUrl": "https://www.noakhalicoll.gov.bd/misc.php?linkto=Sports",
+      "newsKeywords": [
+        "sport",
+        "cricket",
+        "football"
+      ]
+    },
+    {
+      "id": "cultural",
+      "title": "Cultural Activities",
+      "group": "Sports & Culture",
+      "description": "Cultural programs, performances and competitions.",
+      "icon": "theater_comedy",
+      "color": "D0335F",
+      "officialUrl": "https://www.noakhalicoll.gov.bd/misc.php?linkto=Cultural%20Activities",
+      "newsKeywords": [
+        "cultural",
+        "culture"
+      ]
+    },
+    {
+      "id": "study_tour",
+      "title": "Study Tours",
+      "group": "Learning",
+      "description": "Educational tours organised for students.",
+      "icon": "directions_bus",
+      "color": "12897F",
+      "officialUrl": "https://www.noakhalicoll.gov.bd/misc.php?linkto=Study%20Tour",
+      "newsKeywords": [
+        "tour"
+      ]
+    },
+    {
+      "id": "computer",
+      "title": "Computer Practice",
+      "group": "Learning",
+      "description": "Computer practice and ICT activities.",
+      "icon": "computer",
+      "color": "3550B5",
+      "officialUrl": "https://www.noakhalicoll.gov.bd/misc.php?linkto=Computer%20Practice",
+      "newsKeywords": [
+        "computer",
+        "ict"
+      ]
+    },
+    {
+      "id": "english",
+      "title": "English Practice",
+      "group": "Learning",
+      "description": "English language practice activities.",
+      "icon": "translate",
+      "color": "6C48B8",
+      "officialUrl": "https://www.noakhalicoll.gov.bd/misc.php?linkto=English%20Practice",
+      "newsKeywords": [
+        "english"
+      ]
+    },
+    {
+      "id": "research",
+      "title": "Research",
+      "group": "Learning",
+      "description": "Research work and publications.",
+      "icon": "science",
+      "color": "1B97B5",
+      "officialUrl": "https://www.noakhalicoll.gov.bd/misc.php?linkto=Research",
+      "newsKeywords": [
+        "research"
+      ]
+    },
+    {
+      "id": "magazine",
+      "title": "Magazine",
+      "group": "Publications",
+      "description": "College magazines and publications.",
+      "icon": "auto_stories",
+      "color": "7A4CC2",
+      "officialUrl": "https://www.noakhalicoll.gov.bd/misc.php?linkto=Magazine",
+      "newsKeywords": [
+        "magazine"
+      ]
+    },
+    {
+      "id": "other",
+      "title": "Other Activities",
+      "group": "Others",
+      "description": "Science fairs, exhibitions and other college programmes.",
+      "icon": "emoji_events",
+      "color": "E5A413",
+      "officialUrl": "https://www.noakhalicoll.gov.bd/misc.php?linkto=Other%20Activities",
+      "newsKeywords": [
+        "science fair",
+        "exhibition",
+        "fair"
+      ]
+    }
+  ],
+  "items": []
+}
